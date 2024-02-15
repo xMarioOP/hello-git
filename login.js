@@ -1,1 +1,1 @@
-const alerta =alert("login V2")
+alert("login V2")
