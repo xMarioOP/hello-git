@@ -1,1 +1,1 @@
-alert("Hello git 3 V1")
+alert("Hello git 3 V2")
