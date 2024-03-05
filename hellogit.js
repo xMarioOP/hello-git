@@ -1,2 +1,2 @@
 alert("New Hello GitHub!")
-alert("Hola")
+alert("adios")
